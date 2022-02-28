@@ -1,0 +1,42 @@
+{
+  "type": 1,
+  "native_ads_app_pos":2,
+  "native_ads_pos": 0,
+  "hideAdOpenApp": false,
+  "sticker": "res/template/album/sticker/info.json",
+  "background": "res/template/album/background/info.json",
+  
+  "am_ba": "EtEIoIBZBsrm+NkKONXkCtXooZ3kNnCkcC5xb4rncoaPct1dpE8Zlz3tqvXPIImQ",
+  "am_in": "EtEIoIBZBsrm+NkKONXkCsgCKcP86zrR0YO+BcAKBXjsCYMrPIZS8PASM9YIXwmF",
+  "am_home_in": "EtEIoIBZBsrm+NkKONXkCsgCKcP86zrR0YO+BcAKBXjsCYMrPIZS8PASM9YIXwmF",
+  "am_na": "EtEIoIBZBsrm+NkKONXkCqMiIN4z2QrzcdXlWa0CDdQmtjsSjnjBQvueWkFDBoPA",
+  "am_vi":"EtEIoIBZBsrm+NkKONXkCnwgp/LMmZXsRdy01PiZLf1YULHpCt5h04eCyLmR6KTI",
+  "am_oa":"EtEIoIBZBsrm+NkKONXkChVtWz6CQd3inAQ4xMxx93sHx//2WxndsurWT9nlS2l+",
+
+  "fb_ba": "Uke4Os1Ux2F2eergO11qPhZHzhtiIIEivUiPUp4TIRw=",
+  "fb_in": "Uke4Os1Ux2F2eergO11qPqZmb34tMdyoBDM38IElMIA=",
+  "fb_home_in": "Uke4Os1Ux2F2eergO11qPqZmb34tMdyoBDM38IElMIA=",
+  "fb_re": "Uke4Os1Ux2F2eergO11qPjUjXN7qDaQ9rw1gP0cv6nA=",
+  "fb_na": "Uke4Os1Ux2F2eergO11qPu/Ogs/yMijXV88vo3q/KiQ=",
+
+  "ads_list": ["mp", "am", "fb"],
+
+  "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/ads.json",
+  "link": "data/album/info.json",
+  "slider": [
+    {
+      "link": "data/album/post1",
+      "thumb": "res/template/album/thumbs/thumb-01.jpg"
+    },
+    {
+    "link": "data/album/post30",
+    "thumb": "res/template/album/thumbs/thumb-30.jpg"
+    },
+    {
+    "link": "data/album/post20",
+    "thumb": "res/template/album/thumbs/thumb-20.jpg"
+    }
+  ]
+}
